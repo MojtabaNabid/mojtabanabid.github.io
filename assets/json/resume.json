@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mojtaba Nabid",
+    "label": "Front-end Web Developer",
     "image": "",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "phone": "",
+    "url": "https://mojtabanabid.github.io/al-folio/",
+    "summary": "Thrilled to be working in the field I love—front-end development! I’m a passionate problem-solver who enjoys turning complex challenges into elegant, user-friendly solutions. With skills in JavaScript, TypeScript, React, HTML, and CSS, I build dynamic and responsive web experiences that people enjoy.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Soest",
+      "countryCode": "DE",
+      "region": "Germany"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "mojtabanabid",
+        "url": "https://www.linkedin.com/in/mojtabanabid/"
       }
     ]
   },
