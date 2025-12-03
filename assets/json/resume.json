@@ -34,7 +34,7 @@
         "Design and build an online store website that leads to a 40% increase in sales.", 
         "Planned website improvement and converting mockups into practicable web presence with HTML and  CSS and JavaScript.", 
         "Used search engine optimization tactics to boost web traffic.",
-        " Increased company revenue through new market strategies."
+        "Increased company revenue through new market strategies."
       ]
     },
     {
@@ -70,23 +70,23 @@
   "certificates": [
     {
       "name": "Capstone Project - Coursera - Table Reservation system by React",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "date": "Apr 2024",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/W9P4ZJBMCF6U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "HTML and CSS in depth",
+      "date": "Apr 2023",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/E6W8N27JTRCX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Version Control - Git",
+      "date": "Mar 2023",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/APLAUW2VRYNG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
       "icon": "fa-solid fa-envelope"
     },
     {
