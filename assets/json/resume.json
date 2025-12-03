@@ -5,7 +5,7 @@
     "image": "",
     "email": "mojtaba.nabid@gmail.com",
     "phone": "",
-    "url": "https://mojtabanabid.github.io/al-folio/",
+    "url": "https://mojtabanabid.github.io/",
     "summary": "Thrilled to be working in the field I love—front-end development! I’m a passionate problem-solver who enjoys turning complex challenges into elegant, user-friendly solutions. With skills in JavaScript, TypeScript, React, HTML, and CSS, I build dynamic and responsive web experiences that people enjoy.",
     "location": {
       "address": "",
@@ -33,18 +33,6 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "Fachhöchschule Sudwestfalen",
@@ -55,7 +43,18 @@
       "startDate": "2023-10-14",
       "endDate": "2026-10-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
+    }, 
+    {
+      "institution": "Shamsipour Technical and Vocational College",
+      "location": "Soest, Germany",
+      "url": "https://www.fh-swf.de/de/",
+      "area": "Advanced Engineering and Engineering Management",
+      "studyType": "MSc",
+      "startDate": "2023-10-14",
+      "endDate": "2026-10-01",
+      "score": "10",
+      "courses": [""]
     }
   ],
   "awards": [
