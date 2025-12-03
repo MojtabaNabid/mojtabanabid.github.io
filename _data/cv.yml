@@ -13,53 +13,29 @@
   contents:
     - title: Master of Sience
       institution: Fachhöchschule Sudwestfalen
-      year: 2023 - 2025
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      year: 2023 - present
     - title: Bachelor of Sience
       institution: Shamsipour Technical and Vocational College
       year: 2011 - 2016
-      description:
-        - Description 1.
-        - Description 2.
+      
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Developer
+      institution: Navabegh Gostar Akam Iranian, Tehran, Iran
+      year: May, 2021 - May, 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Provided front-end website development using JavaScript, HTML, CSS, React, TypeScript and other editing software.
+        
+    - title: Software Developer
+      institution: Homa, Tehran, Iran
+      year: April, 2020 - Feb, 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Design and build an online store website that leads to a 40% increase in sales.
+        - Planned website improvement, converting mockups into practicable web presence with HTML, CSS, and JavaScript.
+        - Used search engine optimization tactics to boost web traffic.
+        - Increased company revenue through new market strategies.
 
 - title: Open Source Projects
   type: time_table
