@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Mojtaba Nabid
-      value: Albert Einstein
+      value: Mojtaba Nabid 
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th August 1994
     - name: Languages
-      value: English, German
+      value: English, German, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Sience
+      institution: Fachhöchschule Sudwestfalen
+      year: 2023 - 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Sience
+      institution: Shamsipour Technical and Vocational College
+      year: 2011 - 2016
       description:
         - Description 1.
         - Description 2.
