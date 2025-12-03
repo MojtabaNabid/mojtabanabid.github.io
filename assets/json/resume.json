@@ -39,22 +39,18 @@
       "location": "Soest, Germany",
       "url": "https://www.fh-swf.de/de/",
       "area": "Advanced Engineering and Engineering Management",
-      "studyType": "MSc",
+      "studyType": "M.Sc.",
       "startDate": "2023-10-14",
-      "endDate": "2026-10-01",
-      "score": "10",
-      "courses": [""]
+      "endDate": "2026-10-01"
     }, 
     {
       "institution": "Shamsipour Technical and Vocational College",
       "location": "Soest, Germany",
-      "url": "https://www.fh-swf.de/de/",
-      "area": "Advanced Engineering and Engineering Management",
-      "studyType": "MSc",
-      "startDate": "2023-10-14",
-      "endDate": "2026-10-01",
-      "score": "10",
-      "courses": [""]
+      "url": "https://en.wikipedia.org/wiki/Shamsipour_Technical_College",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "BSc",
+      "startDate": "2011-09-01",
+      "endDate": "2016-07-01"
     }
   ],
   "awards": [
