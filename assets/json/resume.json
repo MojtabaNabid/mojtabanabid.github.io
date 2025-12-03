@@ -73,7 +73,7 @@
       "date": "Apr 2024",
       "issuer": "Coursera",
       "url": "https://www.coursera.org/account/accomplishments/verify/W9P4ZJBMCF6U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "HTML and CSS in depth",
@@ -87,43 +87,71 @@
       "date": "Mar 2023",
       "issuer": "Coursera",
       "url": "https://www.coursera.org/account/accomplishments/verify/APLAUW2VRYNG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Advanced React",
+      "date": "Feb 2023",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/V8X69E3ARRDK?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "React Basics",
+      "date": "Jan 2023",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/V5QJUUC4F6G3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Programming with JavaScript",
+      "date": "Dec 2022",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/79AEHED3S47N?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Introduction to Front-End Development",
+      "date": "Nov 2022",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/MXKXE3CWH6XH?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Principles of UX/UI Design",
+      "date": "May 2023",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/VCR8N69THAPF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "React.js"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "UI/UX"
+    },
+    {
+      "name": "WordPress"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "MS suite"
     }
   ],
   "languages": [
