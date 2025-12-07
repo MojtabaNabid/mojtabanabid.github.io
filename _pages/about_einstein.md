@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m Mojtaba — a front-end developer who is passionate about building modern, meaningful, and user-friendly web experiences. I love working with the latest web technologies and enjoy the process of turning ideas into clean, functional websites.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m a responsible and dedicated person who takes pride in delivering high-quality work. Collaboration is very important to me, and I truly enjoy being part of a good team where everyone supports each other and works toward a shared goal.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m always learning, improving, and exploring new ways to create better digital products.
